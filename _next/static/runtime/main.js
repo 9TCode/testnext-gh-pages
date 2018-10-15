@@ -5706,7 +5706,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\SH\\Desktop\\frontendJS\\testnext-gh-pages\\.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "C:\\Users\\SH\\Desktop\\frontendJS\\next\\testnext-gh-pages1\\.next");
       return error;
     }
   };
@@ -17967,7 +17967,7 @@ module.exports = function(module) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\SH\Desktop\frontendJS\testnext-gh-pages\node_modules\next\dist\client\next-dev */"./node_modules/next/dist/client/next-dev.js");
+module.exports = __webpack_require__(/*! C:\Users\SH\Desktop\frontendJS\next\testnext-gh-pages1\node_modules\next\dist\client\next-dev */"./node_modules/next/dist/client/next-dev.js");
 
 
 /***/ }),
